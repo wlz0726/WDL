@@ -1,2 +1,2 @@
 # WDL
-pipeline using wdl scripts
+pipeline using [WDL](https://software.broadinstitute.org/wdl) scripts
